@@ -1,11 +1,11 @@
 ### Ana Cláudia Andrietti 😊
 
-- Estudando C#.Net Framework 💻
+- Estudando C# .Net Framework 💻
 
 <div align="center">
-  <a href="https://github.com/ana-andrietti">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ana-andrietti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-andrietti&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/FernandoLuiz-web">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ana-andrietti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-andrietti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   #
